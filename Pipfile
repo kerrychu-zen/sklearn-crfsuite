@@ -16,6 +16,7 @@ nltk = "*"
 matplotlib = "*"
 sklearn = "*"
 sklearn-crfsuite = "*"
+pipfile = "*"
 
 [requires]
 python_version = "3.7"
